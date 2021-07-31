@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PuzzleGame</string>
+
+    <!--VALIDATION MESSAGE-->
+    <string name="validation_please_check_your_internet_connection">Please check your internet connection.</string>
+    <string name="validation_something_went_wrong">Something went wrong!</string>
+
+    <!--Title-->
+    <string name="title_total_correct">Total Correct</string>
+    <string name="title_total_wrong">Total Wrong</string>
+    <string name="title_final_result">Final Result</string>
+</resources>
